@@ -1,0 +1,9 @@
+spring:
+  ai:
+    mcp:
+      server:
+        name: AI-agent-search-mcp-server
+        version: 0.0.1
+        type: SYNC
+        # sse
+        stdio: false
